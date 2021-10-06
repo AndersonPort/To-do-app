@@ -1,3 +1,3 @@
 # 📝 To-do-app
 
-### To do web application
+- To do web application
